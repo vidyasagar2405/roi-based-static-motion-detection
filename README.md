@@ -1,4 +1,4 @@
-# 🧠 OpenCV Static Motion Detection Project
+# Static Motion Detection Project using OpenCV
 
 This project demonstrates a **Static Motion Detection System** built using **OpenCV** and **Python**.
 There is a defined **Region of Intrest(ROI)** It allows users to detect motion **only within that ROI area** of the video frame.
@@ -41,8 +41,8 @@ This can be useful for surveillance applications where you only care about motio
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/<vidyasagar2405>/OpenCV-Static-Motion-Detection-Project.git
-   cd OpenCV-Static-Motion-Detection-Project
+   git clone https://github.com/<vidyasagar2405>/roi-based-static-motion-detection.git
+   cd roi-based-static-motion-detection
    ```
 
 2. **Install Dependencies:**
@@ -61,12 +61,5 @@ This can be useful for surveillance applications where you only care about motio
 
 ## 📸 Demo Video
 
-[demo_video](https://youtu.be/ma9wXHnOX_g)
+## [Video](https://youtu.be/ma9wXHnOX_g)
 
-
----
-
-## 🧑‍💻 Author
-
-**[Vidya Sagar]**
-💼 GitHub: [vidyasagar2405](https://github.com/vidyasagar2405)
